@@ -20,10 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Users\Александр\Downloads\my\╨Ъ╨░╨╗╤М╨║╤Г╨╗╤П╤В╨╛╤А_╨╝╨╜╨╛╨╢╨╡╤Б╤В╨▓\main.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Users\Александр\Downloads\my\╨Ъ╨░╨╗╤М╨║╤Г╨╗╤П╤В╨╛╤А_╨╝╨╜╨╛╨╢╨╡╤Б╤В╨▓\Set.cpp">
+    <ClCompile Include="..\..\..\..\deepseek-harness\default-workspace\set_calculator.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
